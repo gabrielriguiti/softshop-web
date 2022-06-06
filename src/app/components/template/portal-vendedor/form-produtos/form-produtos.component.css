@@ -1,0 +1,22 @@
+.container {
+  margin: 10px;
+  display: flex;
+}
+
+mat-form-field.number-input {
+  width: 100px;
+}
+
+mat-form-field.text-input {
+  width: 300px;
+}
+
+mat-form-field {
+  font-size: 12px;
+  padding: 10px;
+}
+
+.text-area-input {
+  min-width: 83%;
+}
+
